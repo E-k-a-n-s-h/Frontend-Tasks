@@ -1,0 +1,30 @@
+body{
+  background-color:#f1f9f9;
+}
+
+form {
+  /* Center the form on the page */
+  margin: 0 auto;
+  width: 380px;
+  /* Form outline */
+
+  border: 1px solid black;
+
+}
+.align3{
+  margin: 0px;
+  text-align: center;
+}
+.align2{
+  text-align: right;
+}
+
+.align1{
+  background-color: grey;
+}
+
+.align{
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+}

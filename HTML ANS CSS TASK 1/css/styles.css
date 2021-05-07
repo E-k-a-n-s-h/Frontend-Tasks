@@ -1,0 +1,35 @@
+body{
+  background-color:#f1f9f9;
+}
+
+.format{
+  margin: 0 auto;
+
+}
+
+hr{
+  border-style: none;
+
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.ekansh{
+  font-family: Goergia;
+  font-weight: 800;
+  color:#f57b51;
+  font-style: italic;
+}
+
+.contact{
+  color: #1eb2a6;
+}
+
+.interesting{
+  color: #800080;
+}
+
+h2{
+  color: #1eb2a6;
+}
